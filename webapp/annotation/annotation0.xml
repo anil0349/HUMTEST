@@ -10,9 +10,9 @@
 			<Annotations Target="Metadata.Order">
 				<Annotation Term="UI.SelectionFields">
 					<Collection>
-						<PropertyPath>CustomerID</PropertyPath>
 						<PropertyPath>OrderID</PropertyPath>
 						<PropertyPath >EmployeeID</PropertyPath>
+						<PropertyPath >ShipCity</PropertyPath>
 					</Collection>
 				</Annotation>
 				<Annotation Term="UI.LineItem">
